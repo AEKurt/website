@@ -91,7 +91,7 @@
         'download_developer_tools'        => 'Geliştirici Araçları',
         'download_ide_stubs'              => 'IDE stubs',
         'download_ubuntu'                 => 'Phalcon\'u Ubuntu\'ya yüklemek için bu adimlari takip etmelisiniz:',
-        'download_ubuntu_1'               => 'If you are missing apt-add-repository run the following command:',
+        'download_ubuntu_1'               => 'Eğer eksik apt-add-repository\'si varsa aşağıdaki komutu çalıştırın:',
         'download_note'                   => 'Phalcon is a C extension, so you need to download a binary for your platform or compile it from source code.',
         'download_compilation'            => 'Derleme',
         'download_compilation_1'          => 'Eklentiyi Linux üzerinde kaynak kodundan kolayca derleyip yükleyebilirsiniz.',
